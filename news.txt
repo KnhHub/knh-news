@@ -1,0 +1,24 @@
+[b]Version 1.0 - Debug Mode (First Stable Release)[/b]
+
+We are excited to announce the first stable release of our Debug Mode! This update introduces several important features and improvements:
+
+[list]
+[*] [b]Project Addition:[/b] You can now add projects with [.knhg] files (Kage No Hitori Game). This format is specifically designed to facilitate the integration and management of projects within our system.
+[*] [b]Automatic Game Updates:[/b] Our debug mode now supports automatic game updates. You no longer need to worry about manual updates; the system will handle everything for you!
+[/list]
+
+We encourage you to try out this new version and share your feedback. Your input is valuable in helping us further improve the debug mode.
+
+Thank you for your support!
+
+[b][color=blue]Contributors, devs, designers, testers and more:[/color][/b]
+[list]
+[*] [color=red]BAIXXO[/color]
+[*] [color=green]RetileCat[/color]
+[*] [color=orange]Care光[/color]
+[*] [color=purple]Popi⚘ - 光愛[/color]
+[*] [color=teal]NovaTsu[/color]
+[*] [color=pink][b]Wys 光[/b] - Our adorable star and the creator of Kage No Hitori![/color]
+[/list]
+
+[/list]
